@@ -1,0 +1,4 @@
+<resources>
+    <drawable name="guide_start_btn_normal">#FF9178B1</drawable>
+    <drawable name="guide_start_btn_pressed">#999178B1</drawable>
+</resources>
